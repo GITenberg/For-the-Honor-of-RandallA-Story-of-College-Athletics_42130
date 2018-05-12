@@ -1,0 +1,25 @@
+_repo: For-the-Honor-of-RandallA-Story-of-College-Athletics_42130
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42130-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Chadwick, Lester
+    gutenberg_agent_id: '32638'
+    url: http://www.gutenberg.org/2009/agents/32638
+description: ''
+gutenberg_issued: '2013-02-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42130'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Track and field -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'College sports -- Juvenile fiction'
+title: 'For the Honor of Randall: A Story of College Athletics'
+url: http://www.gutenberg.org/ebooks/42130
